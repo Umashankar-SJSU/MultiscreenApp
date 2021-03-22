@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MultiscreenApp</string>
+    <string name="login">Welcome to My Restaurant</string>
+    <string name="username">Enter your username</string>
+    <string name="password">Enter your Password</string>
+    <string name="button">Click me</string>
+    <string name="OrderActivityTextView">What you want to order? Choose from below.</string>
+    <string name="Item1">Type Burger here</string>
+    <string name="Item2">Type Pizza here</string>
+    <string name="Item3">Type Salad here</string>
+    <string name="Item4">Type Coke here</string>
+    <string name="orderButton">Place Order</string>
+
+
+</resources>
